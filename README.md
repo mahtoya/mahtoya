@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fabian, an <a href="https://linkedin.com/in/Josh">IT Professional</a>!</h1>
+<h1>Hi, I'm Fabian, an <a href="https://www.linkedin.com/in/fabian-rodriguez-b91048407/
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
